@@ -30,7 +30,7 @@ Currently, I'm focusing my energy on deep reinforcement learning, edge computing
 
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/shristi-g-git/shristi-g-git/main/10%20female%20inventors%20who%20changed%20the%20world%20forever.jpg" width="80%" alt="Side Graphic" />
+      <img src="https://raw.githubusercontent.com/shristi-g-git/shristi-g-git/main/https://raw.githubusercontent.com/shristi-g-git/shristi-g-git/main/Fondo%20de%20pantalla.jpg.jpg" width="80%" alt="Side Graphic" />
     </td>
   </tr>
 </table>
