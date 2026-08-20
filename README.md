@@ -1,6 +1,6 @@
 <!-- Top Header Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shristi-g-git/shristi-g-git/main/10%20female%20inventors%20who%20changed%20the%20world%20forever.jpg" width="100%" alt="Header Banner" />
+  <img src="https://raw.githubusercontent.com/shristi-g-git/shristi-g-git/main/10%20female%20inventors%20who%20changed%20the%20world%20forever.jpg" width="600%" alt="Header Banner" />
 </p>
 
 <!-- Centered Quick Links & Badges -->
@@ -33,10 +33,13 @@ Currently, I'm focusing my energy on deep reinforcement learning, edge computing
 
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="[YOUR_SIDE_GRAPHIC_OR_GIF_URL_HERE](https://raw.githubusercontent.com/shristi-g-git/shristi-g-git/main/Fondo%20de%20pantalla.jpg" width="100%" alt="Side Art" />
+      <!-- Scaled down Lamarr image -->
+      <img src="https://raw.githubusercontent.com/shristi-g-git/shristi-g-git/main/Reading%20this%20on%20your%20Smartphone_%20Thank%20Hedy%20Lamarr!%20-%20MassBio.jpg" width="65%" alt="Hedy Lamarr" />
     </td>
   </tr>
 </table>
+
+
 
 <!-- Bottom Decorative Accent Line -->
 <p align="center">
