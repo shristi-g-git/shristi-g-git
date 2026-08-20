@@ -1,6 +1,6 @@
 <!-- Top Header Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shristi-g-git/shristi-g-git/main/10%20female%20inventors%20who%20changed%20the%20world%20forever.jpg" width="600%" alt="Header Banner" />
+  <img src="https://raw.githubusercontent.com/shristi-g-git/shristi-g-git/main/10%20female%20inventors%20who%20changed%20the%20world%20forever.jpg" width="60%" alt="Header Banner" />
 </p>
 
 <!-- Centered Quick Links & Badges -->
