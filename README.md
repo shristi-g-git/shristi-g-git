@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!-- Top Header Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shristi-g-git/shristi-g-git/main/Fondo%20de%20pantalla.jpg" width="100%" alt="Header Banner" />
+  <img src="https://raw.githubusercontent.com/shristi-g-git/shristi-g-git/main/10%20female%20inventors%20who%20changed%20the%20world%20forever.jpg" width="100%" alt="Header Banner" />
 </p>
 
 <!-- Centered Quick Links & Badges -->
@@ -49,12 +49,12 @@ Currently, I'm focusing my energy on deep reinforcement learning, edge computing
 
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="YOUR_SIDE_GRAPHIC_OR_GIF_URL_HERE" width="100%" alt="Side Art" />
+      <img src="[YOUR_SIDE_GRAPHIC_OR_GIF_URL_HERE](https://raw.githubusercontent.com/shristi-g-git/shristi-g-git/main/Fondo%20de%20pantalla.jpg" width="100%" alt="Side Art" />
     </td>
   </tr>
 </table>
 
 <!-- Bottom Decorative Accent Line -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shristi-g-git/shristi-g-git/main/HD%20Purple%20Neon%20Glowing%20Line%20Transparent%20PNG.jpg" width="100%" height="4px" />
+  <img src="https://raw.githubusercontent.com/shristi-g-git/shristi-g-git/main/HD%20Purple%20Neon%20Glowing%20Line%20Transparent%20PNG.jpg" width="150%" height="4px" />
 </p>
