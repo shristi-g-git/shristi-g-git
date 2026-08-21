@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/shristigupta">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/-shristi-gupta">
     <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:shristigupta.ghy@gmail.com">
