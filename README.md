@@ -1,6 +1,5 @@
-<!-- TOP BANNER IMAGE -->
 <p align="center">
-    <img src="https://raw.githubusercontent.com/shristi-g-git/shristi-g-git/main/Reading%20this%20on%20your%20Smartphone_%20Thank%20Hedy%20Lamarr!%20-%20MassBio.jpg" width="80%" alt="Header Banner" />
+  <img src="https://raw.githubusercontent.com/shristi-g-git/shristi-g-git/main/Reading%20this%20will%20your%20%20smartphone_%20%20thank%20%20you%20%20amaru%20-%20%20masakio.jpg" width="80%" />
 </p>
 
 <!-- BUTTON TABS -->
@@ -70,6 +69,4 @@
 </table>
 
 <!-- NEON BOTTOM BAR ACCENT -->
-<img src="https://raw.githubusercontent.com/shristi-g-git/shristi-g-git/main/HD%20Purple%20Neon%20Glowing%20Line%20Transparent%20PNG.jpg" width="100%" height="4px" />
-
-
+<img src="https://raw.githubusercontent.com/shristi-g-git/shristi-g-git/main/HD%20Purple%20Neon%20Glowing%20Line%20Transparent%20PNG.png" width="100%" height="4px" />
