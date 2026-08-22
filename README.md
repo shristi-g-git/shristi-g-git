@@ -15,14 +15,14 @@
 <br />
 
 <!-- MAIN TWO-COLUMN SECTION -->
-<table>
+<table border="0" width="100%">
   <tr>
     <!-- LEFT COLUMN: TEXT & TABLE -->
     <td width="55%" valign="top">
       
-      # <font color="#d8b4fe">Hi ! I am Shristi :)</font>
+      <h1><font color="#d8b4fe">Hi ! I am Shristi :)</font></h1>
       
-      ### **Computer Science Graduate**
+      <h3><b>Computer Science Graduate</b></h3>
       
       <p>
         I am deeply passionate about building high-performance systems, IoT architectures, and smart automation workflows.
@@ -37,11 +37,11 @@
       <br />
 
       <!-- TECH STACK TABLE -->
-      <table>
+      <table border="1" width="100%">
         <thead>
           <tr>
-            <th>Area</th>
-            <th>Technologies</th>
+            <th align="left">Area</th>
+            <th align="left">Technologies</th>
           </tr>
         </thead>
         <tbody>
