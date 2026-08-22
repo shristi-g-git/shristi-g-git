@@ -1,40 +1,66 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shristi-g-git/shristi-g-git/main/Reading%20this%20on%20your%20Smartphone_%20Thank%20Hedy%20Lamarr!%20-%20MassBio.jpg" width="60%" alt="Header Banner" />
-</p>
+<div align="center">
 
-<p align="center">
+  <!-- Header Banner / Background Card -->
+  <a href="https://github.com/shristi-gupta">
+    <img src="https://raw.githubusercontent.com/shristi-g-git/shristi-g-git/main/Reading%20this%20on%20your%20Smartphone_%20Thank%20Hedy%20Lamarr!%20-%20MassBio.jpg" width="60%" alt="Header Banner" />
+  </a>
+
+  <br />
+
+  <!-- Social Badge Links -->
   <a href="https://www.linkedin.com/in/-shristi-gupta/">
-    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:shristigupta.ghy@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail" />
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/RESUME-000000?style=for-the-badge&logo=read-the-docs&logoColor=white" />
+  <a href="https://your-portfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-2E1A47?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
   </a>
-</p>
+
+</div>
 
 <br />
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
+---
 
-### I'm Shristi
+### **About Me**
 
-**Computer Science Undergrad**
+> **猫が導く夜の静けさ** — *The quiet night guided by the cat.*
+> **未来はここにある** — *The future is here.*
 
-I am deeply passionate about building high-performance systems, IoT architectures, and smart automation workflows.
+I am deeply passionate about building **high-performance systems**, **IoT architectures**, and **smart automation workflows**. 
 
-Currently, I'm focusing my energy on deep reinforcement learning, edge computing, and smart hardware projects. My technical toolkit centers around Python, C++, Deep RL models, and IoT integrations.
+* **Current Focus:** Deep reinforcement learning, edge computing, and smart hardware projects.
+* **Technical Toolkit:** Python, C++, Deep RL models, and IoT integrations.
 
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/shristi-g-git/shristi-g-git/main/https://raw.githubusercontent.com/shristi-g-git/shristi-g-git/main/Fondo%20de%20pantalla.jpg.jpg" width="80%" alt="Side Graphic" />
-    </td>
-  </tr>
-</table>
+---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shristi-g-git/shristi-g-git/main/HD%20Purple%20Neon%20Glowing%20Line%20Transparent%20PNG.jpg" width="100%" height="4px" />
-</p>
+### **Technical Stack**
+
+<div align="center">
+
+| Area | Technologies |
+| :--- | :--- |
+| **Languages** | `Python` `C++` `SQL` |
+| **AI / ML** | `Deep Reinforcement Learning` `PyTorch` `TensorFlow` |
+| **IoT & Systems** | `Edge Computing` `Smart Hardware` `MQTT` `Embedded Systems` |
+
+</div>
+
+---
+
+### **GitHub Stats**
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=synthwave&hide_border=true&bg_color=1f1b2e&title_color=e0def4&text_color=9ccfd8" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=synthwave&hide_border=true&bg_color=1f1b2e&title_color=e0def4&text_color=9ccfd8" alt="Top Languages" width="48%" />
+
+</div>
+
+<br />
+
+<div align="center">
+  <sub>Designed with precision • <b>NEKO</b></sub>
+</div>
