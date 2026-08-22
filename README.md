@@ -2,7 +2,7 @@
 
   <!-- Header Banner / Background Card -->
   <a href="https://github.com/shristi-gupta">
-    <img src="https://raw.githubusercontent.com/shristi-g-git/shristi-g-git/main/Reading%20this%20on%20your%20Smartphone_%20Thank%20Hedy%20Lamarr!%20-%20MassBio.jpg" width="60%" alt="Header Banner" />
+    <img src="https://raw.githubusercontent.com/shristi-g-git/shristi-g-git/main/Reading%20this%20on%20your%20Smartphone_%20Thank%20Hedy%20Lamarr!%20-%20MassBio.jpg" width="80%" alt="Header Banner" />
   </a>
 
   <br />
@@ -25,9 +25,6 @@
 ---
 
 ### **About Me**
-
-> **猫が導く夜の静けさ** — *The quiet night guided by the cat.*
-> **未来はここにある** — *The future is here.*
 
 I am deeply passionate about building **high-performance systems**, **IoT architectures**, and **smart automation workflows**. 
 
